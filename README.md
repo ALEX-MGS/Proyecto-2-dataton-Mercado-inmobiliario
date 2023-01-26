@@ -12,11 +12,6 @@ este archivo contiene los paso que segui para la implementacion y aplicasion de 
 ALEX-MGS.csv:
 este archivo es el resultado de el procesar el data frame de test utilizando mi modelo de machine learnig ya entrenado, este esta guardado en un archivo tipo csv en una columna con valores 0 y 1 representado el 1 valor 'low' y 0 no 'low'
 
-test.parquet:
-datos provisto para implementacion de test
-
-train.parquet
-datos provisto para implementacion de train
 
     descripcion de proceso para implementacion de modelo machine learnig
     
