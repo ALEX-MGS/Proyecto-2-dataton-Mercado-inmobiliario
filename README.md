@@ -29,4 +29,3 @@ este paso esta descrito a mas profundidad en el archivo exploracion_data_houses.
 
 4 - En este paso implemente todo lo necesario para la ejecucion correcta en el modelo que elegi, tambien realice las pruebas correspondientes para cersiorarme que funcionara y finalmente genere un archivo con las predicciones que resultaron de el modelo. este paso esta descrito a mas profundidad en el archivo ml_supervisado_data_houses.ipynb
 
-5-
