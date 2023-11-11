@@ -15,7 +15,7 @@ este archivo es el resultado de el procesar el data frame de test utilizando mi 
 
     descripcion de proceso para implementacion de modelo machine learnig
     
-1 - El primer paso que realice fue la creacion de dataframe a partir los archivos recivido en formato parquet
+1 - El primer paso que realice fue la creacion de dataframe a partir los archivos recibido en formato parquet
 
 2 - En este paso explore los archivos de una manera general para comprender en que y como son usados los datos que tengo disponibles para esto  utlice herramientas como las siguientes: .head, .describe, .value_count, .isnull. etc.
 
